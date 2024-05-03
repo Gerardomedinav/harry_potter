@@ -1,6 +1,9 @@
 # Harry Potter Vue App
 
 Este es un proyecto de una aplicación web desarrollada con Vue.js que muestra información sobre los personajes de Harry Potter.
+## Despliegue
+
+El proyecto está desplegado en [https://harry-potter-beta.vercel.app/](https://harry-potter-beta.vercel.app/).
 
 ## Tecnologías Utilizadas
 
